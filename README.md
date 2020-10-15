@@ -1,2 +1,2 @@
 # sombra-industrial.github.io
-Сайт выполненный на bootstrap
+Сайт выполненный на bootstrap, реализован калькулятор на js
